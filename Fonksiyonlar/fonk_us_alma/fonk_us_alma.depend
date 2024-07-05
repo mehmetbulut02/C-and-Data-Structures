@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1696683829 source:c:\users\mehmet\desktop\projeler\fonksiyonlar\fonk_us_alma\main.c
+	<stdio.h>
+	<stdlib.h>
+

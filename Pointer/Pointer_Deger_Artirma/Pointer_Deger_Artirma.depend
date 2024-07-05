@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1697734844 source:c:\users\mehmet\desktop\projeler\pointer\pointer_deger_artirma\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1696691959 source:c:\users\mehmet\desktop\projeler\fonksiyonlar\getchar and putchar fonks\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1697183790 source:c:\users\mehmet\desktop\projeler\ders_4\main.c
+	<stdio.h>
+	<stdlib.h>
+

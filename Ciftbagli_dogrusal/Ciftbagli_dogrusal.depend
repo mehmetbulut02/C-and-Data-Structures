@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1700394686 source:c:\users\mehmet\desktop\projeler\ciftbagli_dogrusal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
